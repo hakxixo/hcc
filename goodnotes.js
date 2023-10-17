@@ -6,7 +6,7 @@ https://apps.apple.com/cn/app/goodnotes-6/id1444383602?l=en-GB
 
 [rewrite_local]
 
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/hakxixo/hcc/main/ goodnotes.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/hakxixo/hcc/main/goodnotes.js
 
 [mitm] 
 
